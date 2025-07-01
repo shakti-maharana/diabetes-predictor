@@ -84,7 +84,7 @@ def main():
                "- Regularly consult your doctor")
     
     st.markdown("---")
-    st.markdown("💻 Made by **Shakti* and *Sanjana ❤", unsafe_allow_html=True)
+    st.markdown("💻 Made by **Shakti* and **Sanjana* ", unsafe_allow_html=True)
 
       
 if __name__ == '__main__':
